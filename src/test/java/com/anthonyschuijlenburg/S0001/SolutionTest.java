@@ -28,4 +28,12 @@ class SolutionTest {
 
         assertArrayEquals(new int[]{0, 1}, result);
     }
+
+    @Test
+    void twoSum_InvalidInput() {
+        Solution solutionGenerator = new Solution();
+        int[] result = solutionGenerator.twoSum(new int[]{}, 6);
+
+        assertArrayEquals(new int[]{}, result);
+    }
 }
