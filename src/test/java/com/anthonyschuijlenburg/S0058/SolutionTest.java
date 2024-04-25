@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 class SolutionTest {
 
     @Test
-    void searchInsert_singleInput() {
+    void lengthOfLastWord_singleInput() {
         Solution solutionGenerator = new Solution();
         int result = solutionGenerator.lengthOfLastWord("Hello");
 
@@ -15,7 +15,7 @@ class SolutionTest {
     }
 
     @Test
-    void searchInsert_simpleInput() {
+    void lengthOfLastWord_simpleInput() {
         Solution solutionGenerator = new Solution();
         int result = solutionGenerator.lengthOfLastWord("Hello World");
 
@@ -23,7 +23,7 @@ class SolutionTest {
     }
 
     @Test
-    void searchInsert_complexInput() {
+    void lengthOfLastWord_complexInput() {
         Solution solutionGenerator = new Solution();
         int result = solutionGenerator.lengthOfLastWord("Hello World  ");
 
@@ -31,7 +31,7 @@ class SolutionTest {
     }
 
     @Test
-    void searchInsert_emptyInput() {
+    void lengthOfLastWord_emptyInput() {
         Solution solutionGenerator = new Solution();
         int result = solutionGenerator.lengthOfLastWord("");
 
