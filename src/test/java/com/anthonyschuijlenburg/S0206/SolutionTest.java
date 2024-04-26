@@ -10,7 +10,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class SolutionTest {
     @Test
-    void reverseList_singleEntryList() {
+    void reverseList_testCase1() {
         Solution solutionGenerator = new Solution();
         ListNode list = new ListNode(1);
         ListNode result = solutionGenerator.reverseList(list);
@@ -22,7 +22,7 @@ class SolutionTest {
     }
 
     @Test
-    void reverseList_simpleList() {
+    void reverseList_testCase2() {
         Solution solutionGenerator = new Solution();
         ListNode list = new ListNode(1, new ListNode(2, new ListNode(3)));
         ListNode result = solutionGenerator.reverseList(list);
@@ -34,7 +34,7 @@ class SolutionTest {
     }
 
     @Test
-    void reverseList_emptyList() {
+    void reverseList_testCase3() {
         Solution solutionGenerator = new Solution();
         ListNode result = solutionGenerator.reverseList(null);
 

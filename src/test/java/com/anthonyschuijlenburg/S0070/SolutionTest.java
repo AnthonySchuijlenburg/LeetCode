@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 class SolutionTest {
 
     @Test
-    void climbStairs_singleInput() {
+    void climbStairs_testCase1() {
         Solution solutionGenerator = new Solution();
         int result = solutionGenerator.climbStairs(1);
 
@@ -15,7 +15,7 @@ class SolutionTest {
     }
 
     @Test
-    void climbStairs_simpleInput() {
+    void climbStairs_testCase2() {
         Solution solutionGenerator = new Solution();
         int result = solutionGenerator.climbStairs(2);
 
@@ -23,7 +23,7 @@ class SolutionTest {
     }
 
     @Test
-    void climbStairs_complexInput() {
+    void climbStairs_testCase3() {
         Solution solutionGenerator = new Solution();
         int result = solutionGenerator.climbStairs(5);
 
@@ -31,7 +31,7 @@ class SolutionTest {
     }
 
     @Test
-    void climbStairs_complexLongInput() {
+    void climbStairs_testCase4() {
         Solution solutionGenerator = new Solution();
         int result = solutionGenerator.climbStairs(45);
 

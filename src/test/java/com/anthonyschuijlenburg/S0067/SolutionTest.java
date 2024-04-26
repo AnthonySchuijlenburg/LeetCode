@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 class SolutionTest {
 
     @Test
-    void addBinary_simpleInput() {
+    void addBinary_testCase1() {
         Solution solutionGenerator = new Solution();
         String result = solutionGenerator.addBinary("11", "1");
 
@@ -15,7 +15,7 @@ class SolutionTest {
     }
 
     @Test
-    void addBinary_complexInput() {
+    void addBinary_testCase2() {
         Solution solutionGenerator = new Solution();
         String result = solutionGenerator.addBinary("1010", "1011");
 
@@ -23,7 +23,7 @@ class SolutionTest {
     }
 
     @Test
-    void addBinary_complexLongInput() {
+    void addBinary_testCase3() {
         Solution solutionGenerator = new Solution();
         String result = solutionGenerator.addBinary(
                 "10100000100100110110010000010101111011011001101110111111111101000000101111001110001111100001101",

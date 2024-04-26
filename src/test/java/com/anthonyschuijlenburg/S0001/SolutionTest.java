@@ -2,11 +2,11 @@ package com.anthonyschuijlenburg.S0001;
 
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
 class SolutionTest {
     @Test
-    void twoSum_simpleInput() {
+    void twoSum_testCase1() {
         Solution solutionGenerator = new Solution();
         int[] result = solutionGenerator.twoSum(new int[]{2,7,11,15}, 9);
 
@@ -14,7 +14,7 @@ class SolutionTest {
     }
 
     @Test
-    void twoSum_ComplexInput() {
+    void twoSum_testCase2() {
         Solution solutionGenerator = new Solution();
         int[] result = solutionGenerator.twoSum(new int[]{3,2,4}, 6);
 
@@ -22,7 +22,7 @@ class SolutionTest {
     }
 
     @Test
-    void twoSum_ComplexerInput() {
+    void twoSum_testCase3() {
         Solution solutionGenerator = new Solution();
         int[] result = solutionGenerator.twoSum(new int[]{3,3}, 6);
 
@@ -30,7 +30,7 @@ class SolutionTest {
     }
 
     @Test
-    void twoSum_InvalidInput() {
+    void twoSum_testCase4() {
         Solution solutionGenerator = new Solution();
         int[] result = solutionGenerator.twoSum(new int[]{}, 6);
 

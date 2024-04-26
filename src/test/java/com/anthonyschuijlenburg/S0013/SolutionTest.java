@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.*;
 public class SolutionTest {
 
     @Test
-    void romanToInt_SimpleNumber() {
+    void romanToInt_testCase1() {
         Solution solutionGenerator = new Solution();
         int result = solutionGenerator.romanToInt("I");
 
@@ -14,7 +14,7 @@ public class SolutionTest {
     }
 
     @Test
-    void romanToInt_MultipleNumbers() {
+    void romanToInt_testCase2() {
         Solution solutionGenerator = new Solution();
         int result = solutionGenerator.romanToInt("III");
 
@@ -22,7 +22,7 @@ public class SolutionTest {
     }
 
     @Test
-    void romanToInt_AllNumbers() {
+    void romanToInt_testCase3() {
         Solution solutionGenerator = new Solution();
         int result = solutionGenerator.romanToInt("MDCLXVI");
 
@@ -30,7 +30,7 @@ public class SolutionTest {
     }
 
     @Test
-    void romanToInt_ComplexNumber() {
+    void romanToInt_testCase4() {
         Solution solutionGenerator = new Solution();
         int result = solutionGenerator.romanToInt("IV");
 

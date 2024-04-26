@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class SolutionTest {
 
     @Test
-    void searchInsert_singleInput() {
+    void searchInsert_testCase1() {
         Solution solutionGenerator = new Solution();
         int result = solutionGenerator.searchInsert(new int[]{1}, 1);
 
@@ -15,7 +15,7 @@ class SolutionTest {
     }
 
     @Test
-    void searchInsert_simpleInput() {
+    void searchInsert_testCase2() {
         Solution solutionGenerator = new Solution();
         int result = solutionGenerator.searchInsert(new int[]{1, 3, 5, 6}, 5);
 
@@ -23,7 +23,7 @@ class SolutionTest {
     }
 
     @Test
-    void searchInsert_complexInput() {
+    void searchInsert_testCase3() {
         Solution solutionGenerator = new Solution();
         int result = solutionGenerator.searchInsert(new int[]{1, 3, 5, 6}, 2);
 
@@ -31,7 +31,7 @@ class SolutionTest {
     }
 
     @Test
-    void searchInsert_complexInputWithTargetBelowScope() {
+    void searchInsert_testCase4() {
         Solution solutionGenerator = new Solution();
         int result = solutionGenerator.searchInsert(new int[]{1, 3, 5, 6}, 0);
 
@@ -39,7 +39,7 @@ class SolutionTest {
     }
 
     @Test
-    void searchInsert_complexInputWithTargetOutOfScope() {
+    void searchInsert_testCase5() {
         Solution solutionGenerator = new Solution();
         int result = solutionGenerator.searchInsert(new int[]{1, 3, 5, 6}, 7);
 

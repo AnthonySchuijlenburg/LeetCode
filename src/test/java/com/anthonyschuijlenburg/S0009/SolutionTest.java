@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class SolutionTest {
     @Test
-    void isPalindrome_simplePalindrome() {
+    void isPalindrome_testCase1() {
         Solution solutionGenerator = new Solution();
         boolean result = solutionGenerator.isPalindrome(121);
 
@@ -14,7 +14,7 @@ class SolutionTest {
     }
 
     @Test
-    void isPalindrome_simpleNotPalindrome() {
+    void isPalindrome_testCase2() {
         Solution solutionGenerator = new Solution();
         boolean result = solutionGenerator.isPalindrome(-121);
 
@@ -22,7 +22,7 @@ class SolutionTest {
     }
 
     @Test
-    void isPalindrome_complexNotPalindrome() {
+    void isPalindrome_testCase3() {
         Solution solutionGenerator = new Solution();
         boolean result = solutionGenerator.isPalindrome(10);
 
