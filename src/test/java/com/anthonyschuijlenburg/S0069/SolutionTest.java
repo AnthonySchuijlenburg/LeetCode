@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 class SolutionTest {
 
     @Test
-    void mySqrt_simpleInput() {
+    void mySqrt_testCase1() {
         Solution solutionGenerator = new Solution();
         int result = solutionGenerator.mySqrt(4);
 
@@ -15,7 +15,7 @@ class SolutionTest {
     }
 
     @Test
-    void mySqrt_complexInput() {
+    void mySqrt_testCase3() {
         Solution solutionGenerator = new Solution();
         int result = solutionGenerator.mySqrt(8);
 

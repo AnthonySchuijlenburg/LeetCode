@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 public class SolutionTest {
     @Test
-    void solutionTest_singleInput() {
+    void solutionTest_testCase1() {
         Solution solutionGenerator = new Solution();
         String result = solutionGenerator.longestCommonPrefix(new String[]{
                 "a"
@@ -14,7 +14,7 @@ public class SolutionTest {
     }
 
     @Test
-    void solutionTest_simpleInputWithCommonPrefixes() {
+    void solutionTest_testCase2() {
         Solution solutionGenerator = new Solution();
         String result = solutionGenerator.longestCommonPrefix(new String[]{
                 "ab",
@@ -25,7 +25,7 @@ public class SolutionTest {
     }
 
     @Test
-    void solutionTest_complexInputWithCommonPrefixes() {
+    void solutionTest_testCase3() {
         Solution solutionGenerator = new Solution();
         String result = solutionGenerator.longestCommonPrefix(new String[]{
                 "flower",
@@ -37,7 +37,7 @@ public class SolutionTest {
     }
 
     @Test
-    void solutionTest_complexInputWithoutCommonPrefixes() {
+    void solutionTest_testCase4() {
         Solution solutionGenerator = new Solution();
         String result = solutionGenerator.longestCommonPrefix(new String[]{
                 "",
@@ -48,7 +48,7 @@ public class SolutionTest {
     }
 
     @Test
-    void solutionTest_emptyInput() {
+    void solutionTest_testCase5() {
         Solution solutionGenerator = new Solution();
         String result = solutionGenerator.longestCommonPrefix(new String[]{});
 

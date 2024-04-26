@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
 class SolutionTest {
     @Test
-    void plusOne_singleInput() {
+    void plusOne_testCase1() {
         Solution solutionGenerator = new Solution();
         int[] result = solutionGenerator.plusOne(new int[] {1});
 
@@ -14,7 +14,7 @@ class SolutionTest {
     }
 
     @Test
-    void plusOne_simpleInput() {
+    void plusOne_testCase2() {
         Solution solutionGenerator = new Solution();
         int[] result = solutionGenerator.plusOne(new int[] {1, 2, 3});
 
@@ -22,7 +22,7 @@ class SolutionTest {
     }
 
     @Test
-    void plusOne_complexSingleInput() {
+    void plusOne_testCase3() {
         Solution solutionGenerator = new Solution();
         int[] result = solutionGenerator.plusOne(new int[] {9});
 
@@ -30,7 +30,7 @@ class SolutionTest {
     }
 
     @Test
-    void plusOne_complexInput() {
+    void plusOne_testCase4() {
         Solution solutionGenerator = new Solution();
         int[] result = solutionGenerator.plusOne(new int[] {9, 9});
 
@@ -38,7 +38,7 @@ class SolutionTest {
     }
 
     @Test
-    void plusOne_complexLongInput() {
+    void plusOne_testCase5() {
         Solution solutionGenerator = new Solution();
         int[] result = solutionGenerator.plusOne(new int[] {1, 9, 9});
 

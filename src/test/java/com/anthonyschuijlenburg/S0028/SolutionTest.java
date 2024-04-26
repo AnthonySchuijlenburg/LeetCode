@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class SolutionTest {
     @Test
-    void otherStrStr_shortInputContainingNeedle() {
+    void otherStrStr_testCase1() {
         Solution solutionGenerator = new Solution();
         int result = solutionGenerator.otherStrStr("a", "a");
 
@@ -14,7 +14,7 @@ class SolutionTest {
     }
 
     @Test
-    void otherStrStr_simpleInputContainingNeedle() {
+    void otherStrStr_testCase2() {
         Solution solutionGenerator = new Solution();
         int result = solutionGenerator.otherStrStr("HelloWorld", "lo");
 
@@ -22,7 +22,7 @@ class SolutionTest {
     }
 
     @Test
-    void otherStrStr_longInputContainingNeedle() {
+    void otherStrStr_testCase3() {
         Solution solutionGenerator = new Solution();
         int result = solutionGenerator.otherStrStr("LoremIpsumDolorSitAmetConsecteturAdipiscingElit", "Elit");
 
@@ -30,7 +30,7 @@ class SolutionTest {
     }
 
     @Test
-    void otherStrStr_simpleInputWithoutNeedle() {
+    void otherStrStr_testCase4() {
         Solution solutionGenerator = new Solution();
         int result = solutionGenerator.otherStrStr("HelloWorld", "Needle");
 
@@ -38,7 +38,7 @@ class SolutionTest {
     }
 
     @Test
-    void strStr_shortInputContainingNeedle() {
+    void strStr_testCase1() {
         Solution solutionGenerator = new Solution();
         int result = solutionGenerator.strStr("a", "a");
 
@@ -46,7 +46,7 @@ class SolutionTest {
     }
 
     @Test
-    void strStr_simpleInputContainingNeedle() {
+    void strStr_testCase2() {
         Solution solutionGenerator = new Solution();
         int result = solutionGenerator.strStr("HelloWorld", "lo");
 
@@ -54,7 +54,7 @@ class SolutionTest {
     }
 
     @Test
-    void strStr_longInputContainingNeedle() {
+    void strStr_testCase3() {
         Solution solutionGenerator = new Solution();
         int result = solutionGenerator.strStr("LoremIpsumDolorSitAmetConsecteturAdipiscingElit", "Elit");
 
@@ -62,7 +62,7 @@ class SolutionTest {
     }
 
     @Test
-    void strStr_simpleInputWithoutNeedle() {
+    void strStr_testCase4() {
         Solution solutionGenerator = new Solution();
         int result = solutionGenerator.strStr("HelloWorld", "Needle");
 
