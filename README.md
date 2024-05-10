@@ -7,20 +7,42 @@ Welcome to my LeetCode Solutions repository! This project contains my solutions 
 ## How to Navigate
 
     Each problem has its own Java package named after the problem's number in the format S0000.
+    Inside each package is all of the needed code, as well as a Problem.md file containing the problem description.
     Feel free to explore and learn from the implementations.
-
-## Getting Started
-
-To get started with this project:
-
-    Clone this repository to your local machine.
-
-    bash
-
-git clone [https://github.com/AnthonySchuijlenburg/LeetCode.git](https://github.com/AnthonySchuijlenburg/LeetCode.git)
-
-Navigate to the directory containing the Java files and open the Java files in your preferred IDE or text editor to view the solutions.
 
 ## Contributing
 
 Contributions are welcome! If you have a more efficient solution or want to add solutions to new problems, feel free to create a pull request.
+
+## Solutions
+
+| Number | Title                                                  | Runtime | Memory   | Problem description                                                |
+|--------|--------------------------------------------------------|---------|----------|--------------------------------------------------------------------|
+| 1      | Two Sum                                                | 2 ms    | 44.5 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0001/Problem.md) |
+| 2      | Add Two Numbers                                        | 2 ms    | 45 MB    | [Problem](src/main/java/com/anthonyschuijlenburg/S0002/Problem.md) |
+| 3      | Longest Substring Without Repeating Characters         | 6 ms    | 44.4 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0003/Problem.md) |
+| 4      | Median of Two Sorted Arrays                            | 1 ms    | 45.7 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0004/Problem.md) |
+| 9      | Palindrome Number                                      | 7 ms    | 44.4 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0009/Problem.md) |
+| 13     | Roman to Integer                                       | 11 ms   | 45.2 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0013/Problem.md) |
+| 14     | Longest Common Prefix                                  | 3 ms    | 41.6 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0014/Problem.md) |
+| 20     | Valid Parentheses                                      | 1 ms    | 41.3 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0020/Problem.md) |
+| 21     | Merge Two Sorted Lists                                 | 8 ms    | 43.1 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0021/Problem.md) |
+| 26     | Remove Duplicates from Sorted Array                    | 1 ms    | 44.7 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0026/Problem.md) |
+| 27     | Remove Element                                         | 0 ms    | 41.8 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0027/Problem.md) |
+| 28     | Find the Index of the First Occurrence in a String     | 0 ms    | 42 MB    | [Problem](src/main/java/com/anthonyschuijlenburg/S0028/Problem.md) |
+| 35     | Search Insert Position                                 | 0 ms    | 43.2 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0035/Problem.md) |
+| 58     | Length of Last Word                                    | 0 ms    | 41.7 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0058/Problem.md) |
+| 66     | Plus One                                               | 0 ms    | 41.4 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0066/Problem.md) |
+| 67     | Add Binary                                             | 1 ms    | 42.4 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0067/Problem.md) |
+| 69     | Sqrt(x)                                                | 1 ms    | 40.9 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0069/Problem.md) |
+| 70     | Climbing Stairs                                        | 1 ms    | 39.8 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0070/Problem.md) |
+| 83     | Remove Duplicates from Sorted List                     | 0 ms    | 43.5 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0083/Problem.md) |
+| 88     | Merge Sorted Array                                     | 0 ms    | 41.8 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0088/Problem.md) |
+| 94     | Binary Tree Inorder Traversal                          | 0 ms    | 41.3 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0094/Problem.md) |
+| 206    | Reverse Linked List                                    | 1 ms    | 42.4 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0206/Problem.md) |
+| 506    | Relative Ranks <- Needs work!                          | 27 ms   | 45.4 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0506/Problem.md) |
+| 786    | K-th Smallest Prime Fraction <- Needs work!            | 672 ms  | 106.5 MB | [Problem](src/main/java/com/anthonyschuijlenburg/S0786/Problem.md) |
+| 2441   | Largest Positive Integer That Exists With Its Negative | 5 ms    | 44.5 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S2441/Problem.md) |
+| 2487   | Remove Nodes From Linked List                          | 8 ms    | 63.5 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S2487/Problem.md) |
+| 2816   | Double a Number Represented as a Linked List           | 6 ms    | 45.6 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S2816/Problem.md) |
+| 3075   | Maximize Happiness of Selected Children <- Needs work! | 34 ms   | 61.1 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S3075/Problem.md) |
