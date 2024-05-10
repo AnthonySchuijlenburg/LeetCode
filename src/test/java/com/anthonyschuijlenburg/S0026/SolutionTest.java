@@ -26,6 +26,4 @@ class SolutionTest {
         assertEquals(5, result);
         assertArrayStartsEqual(new int[]{0, 1, 2, 3, 4}, numbers);
     }
-
-
 }

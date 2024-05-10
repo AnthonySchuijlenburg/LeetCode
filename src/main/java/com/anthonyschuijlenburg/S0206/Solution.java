@@ -1,5 +1,7 @@
 package com.anthonyschuijlenburg.S0206;
 
+import com.anthonyschuijlenburg.Helpers.ListNode;
+
 import java.util.ArrayList;
 
 class Solution {
