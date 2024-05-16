@@ -39,6 +39,7 @@ Contributions are welcome! If you have a more efficient solution or want to add 
 | 83     | Remove Duplicates from Sorted List                     | 0 ms    | 43.5 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0083/Problem.md) |
 | 88     | Merge Sorted Array                                     | 0 ms    | 41.8 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0088/Problem.md) |
 | 94     | Binary Tree Inorder Traversal                          | 0 ms    | 41.3 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0094/Problem.md) |
+| 125    | Valid Palindrome <- Could improve                      | 15 ms   | 44.8 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0125/Problem.md) |
 | 206    | Reverse Linked List                                    | 1 ms    | 42.4 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0206/Problem.md) |
 | 506    | Relative Ranks <- Needs work!                          | 27 ms   | 45.4 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0506/Problem.md) |
 | 786    | K-th Smallest Prime Fraction <- Needs work!            | 672 ms  | 106.5 MB | [Problem](src/main/java/com/anthonyschuijlenburg/S0786/Problem.md) |
