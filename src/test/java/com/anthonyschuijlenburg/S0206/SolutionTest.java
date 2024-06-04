@@ -1,5 +1,6 @@
 package com.anthonyschuijlenburg.S0206;
 
+import com.anthonyschuijlenburg.Helpers.ListNode;
 import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;

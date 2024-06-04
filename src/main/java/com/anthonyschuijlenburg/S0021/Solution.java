@@ -1,5 +1,7 @@
 package com.anthonyschuijlenburg.S0021;
 
+import com.anthonyschuijlenburg.Helpers.ListNode;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
