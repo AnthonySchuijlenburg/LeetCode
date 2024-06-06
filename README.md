@@ -45,7 +45,9 @@ Contributions are welcome! If you have a more efficient solution or want to add 
 | 409    | Longest Palindrome                                     | 6 ms    | 42.4 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0409/Problem.md) |
 | 506    | Relative Ranks <- Needs work!                          | 27 ms   | 45.4 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0506/Problem.md) |
 | 786    | K-th Smallest Prime Fraction <- Needs work!            | 672 ms  | 106.5 MB | [Problem](src/main/java/com/anthonyschuijlenburg/S0786/Problem.md) |
+| 846    | Hand of Straights                                      | 59 ms   | 45.5 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0846/Problem.md) |
 | 1002   | Find Common Characters                                 | 12 ms   | 44.8 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S1002/Problem.md) |
+| 1296   | Divide Array in Sets of K Consecutive Numbers          | 133 ms  | 56.8 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S1296/Problem.md) |
 | 2441   | Largest Positive Integer That Exists With Its Negative | 5 ms    | 44.5 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S2441/Problem.md) |
 | 2486   | Append Characters to String to Make Subsequence        | 3 ms    | 45.3 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S2486/Problem.md) |
 | 2487   | Remove Nodes From Linked List                          | 8 ms    | 63.5 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S2487/Problem.md) |
