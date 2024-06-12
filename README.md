@@ -36,6 +36,7 @@ Contributions are welcome! If you have a more efficient solution or want to add 
 | 67     | Add Binary                                             | 1 ms    | 42.4 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0067/Problem.md) |
 | 69     | Sqrt(x)                                                | 1 ms    | 40.9 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0069/Problem.md) |
 | 70     | Climbing Stairs                                        | 1 ms    | 39.8 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0070/Problem.md) |
+| 75     | Sort Colors                                            | 1 ms    | 41.5 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0075/Problem.md) |
 | 83     | Remove Duplicates from Sorted List                     | 0 ms    | 43.5 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0083/Problem.md) |
 | 88     | Merge Sorted Array                                     | 0 ms    | 41.8 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0088/Problem.md) |
 | 94     | Binary Tree Inorder Traversal                          | 0 ms    | 41.3 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0094/Problem.md) |
