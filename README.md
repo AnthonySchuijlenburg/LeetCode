@@ -48,6 +48,7 @@ Contributions are welcome! If you have a more efficient solution or want to add 
 | 633    | Sum of Square Numbers                                  | 5 ms    | 40.8 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0633/Problem.md) |
 | 648    | Replace Words                                          | 686 ms  | 53 MB    | [Problem](src/main/java/com/anthonyschuijlenburg/S0648/Problem.md) |
 | 786    | K-th Smallest Prime Fraction <- Needs work!            | 672 ms  | 106.5 MB | [Problem](src/main/java/com/anthonyschuijlenburg/S0786/Problem.md) |
+| 826    | Most Profit Assigning Work                             | 11 ms   | 46 MB    | [Problem](src/main/java/com/anthonyschuijlenburg/S0826/Problem.md) |
 | 846    | Hand of Straights                                      | 59 ms   | 45.5 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0846/Problem.md) |
 | 945    | Minimum Increment to Make Array Unique                 | 38 ms   | 60 MB    | [Problem](src/main/java/com/anthonyschuijlenburg/S0945/Problem.md) |
 | 1002   | Find Common Characters                                 | 12 ms   | 44.8 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S1002/Problem.md) |
