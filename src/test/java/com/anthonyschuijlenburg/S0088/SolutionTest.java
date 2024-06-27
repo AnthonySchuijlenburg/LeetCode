@@ -2,8 +2,6 @@ package com.anthonyschuijlenburg.S0088;
 
 import org.junit.jupiter.api.Test;
 
-import java.util.Arrays;
-
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
 class SolutionTest {
@@ -121,8 +119,6 @@ class SolutionTest {
                 nums2,
                 nums2.length
         );
-
-        System.out.println(Arrays.toString(nums1));
 
         assertArrayEquals(
                 new int[]{-1,0,0,1,2,2,3,3,3},
