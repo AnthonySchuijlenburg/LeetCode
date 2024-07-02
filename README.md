@@ -43,6 +43,7 @@ Contributions are welcome! If you have a more efficient solution or want to add 
 | 125    | Valid Palindrome <- Could improve                      | 15 ms   | 44.8 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0125/Problem.md) |
 | 206    | Reverse Linked List                                    | 1 ms    | 42.4 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0206/Problem.md) |
 | 344    | Reverse String                                         | 0 ms    | 48.4 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0344/Problem.md) |
+| 350    | Intersection of Two Arrays II                          | 6 ms    | 44.8 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0350/Problem.md) |
 | 409    | Longest Palindrome                                     | 6 ms    | 42.4 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0409/Problem.md) |
 | 506    | Relative Ranks <- Needs work!                          | 27 ms   | 45.4 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0506/Problem.md) |
 | 633    | Sum of Square Numbers                                  | 5 ms    | 40.8 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0633/Problem.md) |
