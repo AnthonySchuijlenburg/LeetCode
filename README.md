@@ -42,6 +42,7 @@ Contributions are welcome! If you have a more efficient solution or want to add 
 | 94     | Binary Tree Inorder Traversal                                        | 0 ms    | 41.3 MB   | [Problem](src/main/java/com/anthonyschuijlenburg/S0094/Problem.md) |
 | 121    | Best Time to Buy and Sell Stock                                      | 1 ms    | 61.6 MB   | [Problem](src/main/java/com/anthonyschuijlenburg/S0121/Problem.md) |
 | 125    | Valid Palindrome <- Could improve                                    | 15 ms   | 44.8 MB   | [Problem](src/main/java/com/anthonyschuijlenburg/S0125/Problem.md) |
+| 136    | Single Number                                                        | 1 ms    | 45.77 MB  | [Problem](src/main/java/com/anthonyschuijlenburg/S0136/Problem.md) |
 | 206    | Reverse Linked List                                                  | 1 ms    | 42.4 MB   | [Problem](src/main/java/com/anthonyschuijlenburg/S0206/Problem.md) |
 | 344    | Reverse String                                                       | 0 ms    | 48.4 MB   | [Problem](src/main/java/com/anthonyschuijlenburg/S0344/Problem.md) |
 | 350    | Intersection of Two Arrays II                                        | 6 ms    | 44.8 MB   | [Problem](src/main/java/com/anthonyschuijlenburg/S0350/Problem.md) |
